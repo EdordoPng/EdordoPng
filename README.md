@@ -96,8 +96,8 @@ Selected results:
 
 - [Portfolio](https://edordopng.github.io/)
 - [All Projects](https://edordopng.github.io/projects/)
-- LinkedIn
-- CV
-- Connect
+- [LinkedIn](https://www.linkedin.com/in/edoardo-diana/)
+- [Connect](https://edordopng.github.io/connect/)
+- [CV](https://edordopng.github.io/connect/#cv)
 
 </details>
